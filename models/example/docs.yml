@@ -1,0 +1,10 @@
+models:
+  - name: details
+    description: This is personal
+    columns:
+      - name: id
+        description: This is personal details
+        tests:
+          - not_null
+              
+          
